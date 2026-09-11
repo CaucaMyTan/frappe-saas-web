@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://github.com/CaucaMyTan/frappe-saas-web.git",
+    "branch": "app-crm"
+  },
+  {
+    "url": "https://github.com/CaucaMyTan/frappe-saas-web.git",
+    "branch": "app-voice-crm"
+  }
+]
